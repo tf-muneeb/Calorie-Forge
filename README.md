@@ -1,6 +1,6 @@
 # 🔥 CalorieForge
 
-A premium dark-themed Flutter fitness app for tracking calories, workouts, and nutrition — built with clean architecture and zero backend dependency.
+A premium dark/light-themed Flutter fitness app for tracking calories, workouts, and nutrition — built with clean architecture and zero backend dependency.
 
 ---
 
