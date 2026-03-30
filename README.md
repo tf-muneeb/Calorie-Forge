@@ -1,7 +1,7 @@
 # 🔥 CalorieForge
 
 CalorieForge is a modern Flutter fitness app focused on clean architecture, state management, and UI consistency — built without any backend or persistence layer.
-A premium dark/light-themed Flutter fitness app for tracking calories, workouts, and nutrition — built with clean architecture and zero backend dependency.
+A premium dark and light themed Flutter fitness app for tracking calories, workouts, and nutrition — built with clean architecture and zero backend dependency.
 
 ---
 
