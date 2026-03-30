@@ -13,7 +13,6 @@ A premium dark-themed Flutter fitness app for tracking calories, workouts, and n
 - **Meal Breakdown Bar** — visual calorie distribution across meal types
 - **Health Score** — dynamic score based on how close you are to your daily calorie goal
 - **Smart Filtering** — filter food entries by meal type, high calorie, or low calorie instantly
-- **Swipe to Delete** — swipe left on any entry to remove it
 - **Haptic Feedback** — native tactile response on key interactions
 
 ---
