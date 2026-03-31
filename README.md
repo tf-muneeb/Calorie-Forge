@@ -21,24 +21,29 @@ A premium dark and light themed Flutter fitness app for tracking calories, worko
 ## 🏗️ Architecture
 ```
 lib/
-├── models/
+├── models/        # Data models representing core entities
 │   ├── food_entry_model.dart
 │   ├── workout_entry_model.dart
 │   └── user_goal_model.dart
-├── providers/
+│
+├── providers/     # State management (business logic & app state)
 │   └── calorie_provider.dart
-├── screens/
+│
+├── screens/       # UI screens (pages)
 │   ├── dashboard_screen.dart
 │   ├── food_log_screen.dart
 │   ├── workout_log_screen.dart
 │   └── add_entry_screen.dart
-└── widgets/
-    ├── dashboard_card.dart
-    ├── progress_card.dart
-    ├── entry_list_item.dart
-    ├── health_score_ring.dart
-    ├── meal_breakdown_bar.dart
-    └── workout_intensity_badge.dart
+│
+├── widgets/       # Reusable UI components
+│   ├── dashboard_card.dart
+│   ├── progress_card.dart
+│   ├── entry_list_item.dart
+│   ├── health_score_ring.dart
+│   ├── meal_breakdown_bar.dart
+│   └── workout_intensity_badge.dart
+│
+└── main.dart      # App entry point
 ```
 
 ---
